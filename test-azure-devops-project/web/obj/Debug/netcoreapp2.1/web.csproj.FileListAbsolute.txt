@@ -1,0 +1,14 @@
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/web/bin/Debug/netcoreapp2.1/web.deps.json
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/web/bin/Debug/netcoreapp2.1/web.runtimeconfig.json
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/web/bin/Debug/netcoreapp2.1/web.runtimeconfig.dev.json
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/web/bin/Debug/netcoreapp2.1/web.dll
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/web/bin/Debug/netcoreapp2.1/web.pdb
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/web/obj/Debug/netcoreapp2.1/web.csprojAssemblyReference.cache
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/web/obj/Debug/netcoreapp2.1/web.csproj.CoreCompileInputs.cache
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/web/obj/Debug/netcoreapp2.1/web.RazorAssemblyInfo.cache
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/web/obj/Debug/netcoreapp2.1/web.RazorAssemblyInfo.cs
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/web/obj/Debug/netcoreapp2.1/web.AssemblyInfoInputs.cache
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/web/obj/Debug/netcoreapp2.1/web.AssemblyInfo.cs
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/web/obj/Debug/netcoreapp2.1/web.RazorTargetAssemblyInfo.cache
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/web/obj/Debug/netcoreapp2.1/web.dll
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/web/obj/Debug/netcoreapp2.1/web.pdb
