@@ -1,0 +1,14 @@
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/console-one/bin/Debug/netcoreapp2.1/console-one.deps.json
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/console-one/bin/Debug/netcoreapp2.1/console-one.runtimeconfig.json
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/console-one/bin/Debug/netcoreapp2.1/console-one.runtimeconfig.dev.json
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/console-one/bin/Debug/netcoreapp2.1/console-one.dll
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/console-one/bin/Debug/netcoreapp2.1/console-one.pdb
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/console-one/obj/Debug/netcoreapp2.1/console-one.csprojAssemblyReference.cache
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/console-one/obj/Debug/netcoreapp2.1/console-one.csproj.CoreCompileInputs.cache
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/console-one/obj/Debug/netcoreapp2.1/console-one.AssemblyInfoInputs.cache
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/console-one/obj/Debug/netcoreapp2.1/console-one.AssemblyInfo.cs
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/console-one/obj/Debug/netcoreapp2.1/console-one.dll
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/console-one/obj/Debug/netcoreapp2.1/console-one.pdb
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/console-one/bin/Debug/netcoreapp2.1/common.dll
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/console-one/bin/Debug/netcoreapp2.1/common.pdb
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/console-one/obj/Debug/netcoreapp2.1/console-one.csproj.CopyComplete

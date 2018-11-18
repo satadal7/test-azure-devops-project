@@ -12,3 +12,6 @@
 /Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/api/obj/Debug/netcoreapp2.1/api.RazorTargetAssemblyInfo.cache
 /Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/api/obj/Debug/netcoreapp2.1/api.dll
 /Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/api/obj/Debug/netcoreapp2.1/api.pdb
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/api/bin/Debug/netcoreapp2.1/common.dll
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/api/bin/Debug/netcoreapp2.1/common.pdb
+/Users/brunocerecetto/projects/test-azure-devops-project/test-azure-devops-project/api/obj/Debug/netcoreapp2.1/api.csproj.CopyComplete

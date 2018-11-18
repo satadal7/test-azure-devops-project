@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api", "api\api.csproj", "{5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console-one", "console-one\console-one.csproj", "{9FAF8503-2974-41E9-87AF-BE90CC79C9A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console-two", "console-two\console-two.csproj", "{2D497D20-370C-4CC3-9AB9-83EAED7CBD92}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "common", "common\common.csproj", "{990C6828-3E3A-48A0-AE3B-9B2837F76AA7}"
 EndProject
 Global
@@ -29,10 +27,6 @@ Global
 		{9FAF8503-2974-41E9-87AF-BE90CC79C9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FAF8503-2974-41E9-87AF-BE90CC79C9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FAF8503-2974-41E9-87AF-BE90CC79C9A7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2D497D20-370C-4CC3-9AB9-83EAED7CBD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2D497D20-370C-4CC3-9AB9-83EAED7CBD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2D497D20-370C-4CC3-9AB9-83EAED7CBD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2D497D20-370C-4CC3-9AB9-83EAED7CBD92}.Release|Any CPU.Build.0 = Release|Any CPU
 		{990C6828-3E3A-48A0-AE3B-9B2837F76AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{990C6828-3E3A-48A0-AE3B-9B2837F76AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{990C6828-3E3A-48A0-AE3B-9B2837F76AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU

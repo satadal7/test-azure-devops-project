@@ -6,4 +6,7 @@
     <RootNamespace>console_one</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\common\common.csproj" />
+  </ItemGroup>
 </Project>

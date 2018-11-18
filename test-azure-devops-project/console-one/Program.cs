@@ -1,4 +1,5 @@
 ﻿using System;
+using common;
 
 namespace console_one
 {
@@ -6,7 +7,8 @@ namespace console_one
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DemoCommon demoCommon = new DemoCommon();
+            Console.WriteLine(demoCommon.Text);
         }
     }
 }
